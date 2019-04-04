@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{83452487-E6F0-B2F8-8774-65E103E9C498}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scpipts/RoomCollection.cs">
+    <Files>
+      <File FileName="Assets/Scpipts/RoomCollection.cs" Line="34" Column="1" />
+      <File FileName="Assets/Scpipts/NewBehaviourScript1.cs" Line="11" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

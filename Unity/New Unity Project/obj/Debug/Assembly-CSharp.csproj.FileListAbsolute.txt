@@ -1,0 +1,2 @@
+/Users/franciscocastillo/Desktop/CSC/Unity/New Unity Project/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/franciscocastillo/Desktop/CSC/Unity/New Unity Project/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,39 @@
+public class Main
+{
+    public static void main(String[] args)
+    {
+        String s = "Matthew,Mark,Luke,John";
+    }
+    
+    static void printParts(String s)
+    {
+        //Start with an empty string
+        //go through the entire string
+        //each character is either a comma or not
+        //if its not a comma, concat to the string we are building
+        //if it is a comma, print the string up to this point, and set it to empty again
+        //once the loop is over, i should have one last string to print, so print it
+        
+    }
+    
+    static String reverseString2(String elephant)
+    {
+        String answer = "";
+        
+        for(int i = 0; i < elephant.length(); i += 1)
+        {
+            answer = answer + elephant.charAt(elephant.length() - 1 - i);
+        }
+        return answer;
+    }
+    
+    static String reverseString(String elephant)
+    {
+        String answer = "";
+        for(int i = elephant.length()-1; i >= 0; i = i - 1)
+        {
+            answer = answer + elephant.charAt(i);
+        }
+        return answer;
+    }
+}

@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/franciscocastillo/Desktop/CSC/2018-19/Java/.metadata/.plugins/org.eclipse.jdt.core
+820019804.index
+2048152730.index

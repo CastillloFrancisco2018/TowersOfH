@@ -1,0 +1,17 @@
+public class Main
+{
+    public static void main(String[] args)
+    {
+       
+        System.out.println(splitString("Matthew,Mark,Luke,John"));
+    }
+    static String splitString(String a)
+    {
+    	String b = "";
+    	for(int i = 0; i <= a.length() - 1; i = i+ 1);
+    	{
+    		b = b + a.charAt(i);
+    	}
+    	return b;
+    }
+}

@@ -1,0 +1,24 @@
+
+public class Main 
+{
+	public static void main(String[] args) 
+	{	
+		
+		
+		
+		System.out.println(findLength("hello", "hi"));	
+	}
+	static int findLength(String a, String b)
+	{
+		int theLengthOfa = a.length();
+		int theLengthOfb = b.length();
+		
+		return theLengthOfa + theLengthOfb;
+		
+		
+		
+		
+	}
+}
+
+

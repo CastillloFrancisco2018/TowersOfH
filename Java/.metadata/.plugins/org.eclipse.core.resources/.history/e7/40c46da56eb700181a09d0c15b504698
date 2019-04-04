@@ -1,0 +1,16 @@
+
+public class Driver 
+{
+	public static void main(String[] args) 
+	{	
+		String s = "hello";
+		String s2 = "elephant";
+		int theLengthOfs = s.length();
+		int theLengthOfs2 = s2.length();
+		
+		System.out.println(theLengthOfs);
+		System.out.println(theLengthOfs2);	
+	}
+}
+
+
